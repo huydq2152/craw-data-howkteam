@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|c:\\users\\pc\\downloads\\5. ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\project\\crawldatafromhowkteam\\crawldatafromhowkteam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|solutionrelative:crawldatafromhowkteam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|c:\\users\\pc\\downloads\\5. ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\project\\crawldatafromhowkteam\\crawldatafromhowkteam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|solutionrelative:crawldatafromhowkteam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|c:\\users\\pc\\downloads\\5. ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\project\\crawldatafromhowkteam\\crawldatafromhowkteam\\menutreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA8CF0-4363-4391-BB22-965B93E0F952}|CrawlDataFromHowKteam\\CrawlDataFromHowKteam.csproj|solutionrelative:crawldatafromhowkteam\\menutreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,14 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CrawlDataFromHowKteam\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MainWindow.xaml",
               "RelativeToolTip": "CrawlDataFromHowKteam\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T14:57:14.895Z",
+              "WhenOpened": "2024-07-08T15:38:34.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CrawlDataFromHowKteam\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CrawlDataFromHowKteam\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAEwD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:36:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuTreeItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MenuTreeItem.cs",
+              "RelativeDocumentMoniker": "CrawlDataFromHowKteam\\MenuTreeItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\5. Ho\u00E0n th\u00E0nh ph\u1EA7n m\u1EC1m\\Project\\CrawlDataFromHowKteam\\CrawlDataFromHowKteam\\MenuTreeItem.cs",
+              "RelativeToolTip": "CrawlDataFromHowKteam\\MenuTreeItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:36:28.502Z",
               "EditorCaption": ""
             }
           ]
